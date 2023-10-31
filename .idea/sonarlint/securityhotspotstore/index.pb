@@ -1,0 +1,77 @@
+
+P
+ src/javaprogram/Quotation01.java,b\5\b5927aca2b65d5c61006ff878bb3b3fff905c5d2
+P
+ src/javaprogram/Quotation02.java,0\8\08b709d0cf5ef25008f1766db534c63758e14dd9
+P
+ src/javaprogram/Quotation03.java,6\a\6a8340e4cc424d8dad4ef8955cda397fae7a4da8
+P
+ src/javaprogram/Quotation04.java,6\0\60c9b65b3447c64e705a73f6df61611a1b3d98d5
+P
+ src/javaprogram/Quotation05.java,7\8\78ccd1019637da95e4d977067edd2f16f25cb3a3
+P
+ src/javaprogram/Quotation06.java,d\5\d5f46b09571884d524bd025e2c7249779757392c
+P
+ src/javaprogram/Quotation07.java,2\5\25a3179dadacd57907e16e790ac3f95ea28942bf
+P
+ src/javaprogram/Quotation08.java,4\1\4175e87cda87b6fc4f2cc116f49e2c1f03af0cde
+P
+ src/javaprogram/Quotation09.java,e\d\ede9db6c8b50f9db20214ed9f4ccb8069791620e
+P
+ src/javaprogram/Quotation10.java,e\8\e8aaa2da4d9629fd99b5ee1dfe7b668891c30af9
+P
+ src/javaprogram/Quotation11.java,0\5\05c700455d38f574f7674b5ac1c307f408767fa1
+P
+ src/javaprogram/Quotation12.java,4\d\4de692f9e1635f8cd1bbd5178d91a47cc56f4515
+P
+ src/javaprogram/Quotation13.java,6\c\6cd2627fdc052228fdc6226c0e2a4b4ce5b2ebaa
+P
+ src/javaprogram/Quotation14.java,7\a\7ad3b90873ed709a8a9bcf3a276d7d69d4364f84
+P
+ src/javaprogram/Quotation15.java,7\c\7c53b96f1cd26f00f54f366b5f66dd3ed239b458
+P
+ src/javaprogram/Quotation16.java,0\1\01dc2830b90d8aa34bdbab89216ab66617a39fb3
+P
+ src/javaprogram/Quotation17.java,b\c\bc9b483cc8426a780710b916d8c6dd6748ac065b
+P
+ src/javaprogram/Quotation18.java,2\e\2ef4cf475b08a60c32af4b7a0d042de69e87c738
+P
+ src/javaprogram/Quotation19.java,7\a\7a1f3b3c93372e3a39730a2816ee779ec3237c8e
+P
+ src/javaprogram/Quotation20.java,6\d\6db7d5f3c2a8c2d5fe2b9b1c0984ec48af060a68
+P
+ src/javaprogram/Quotation21.java,f\d\fd1a99c11ba9ce2958d8b358cb26139c92238b6d
+P
+ src/javaprogram/Quotation22.java,d\1\d1232ad1369b23b0ee05004236f1951bbc44edeb
+P
+ src/javaprogram/Quotation23.java,c\a\ca419c9fe99180fd1ced9407cf6fd9233d826c34
+P
+ src/javaprogram/Quotation24.java,6\b\6b7632072e4ad8ef7eaa4e2965015ec740650ad8
+P
+ src/javaprogram/Quotation25.java,f\7\f7c735d6c1b8db3b2e97fc88cc70787736279f9e
+P
+ src/javaprogram/Quotation26.java,6\3\63ba60565023cd535ceec8a762aaabf6b1f3ed3e
+W
+'src/midweekjavaprogram/Quotation01.java,1\f\1fc31d9de0cf8c31bfa8f360d431db12b2663dbf
+W
+'src/midweekjavaprogram/Quotation02.java,4\c\4c88baaa14603c32c686fcf1b174d2e79da69af0
+W
+'src/midweekjavaprogram/Quotation03.java,b\6\b692eeecf3fc8c187eb2080568bc7113b23e9243
+W
+'src/midweekjavaprogram/Quotation04.java,2\0\201568e684233a0c977bcc300616992f8ca6ad75
+W
+'src/midweekjavaprogram/Quotation05.java,2\9\29595c8a59208e0aa7807ba29b22b8be4cbb5c4a
+W
+'src/midweekjavaprogram/Quotation06.java,1\9\196c1fbfb50530b303e7df93f4b6e94f200a7443
+W
+'src/midweekjavaprogram/Quotation07.java,1\f\1ff687765ee180990515836054d76ece522e7a9b
+W
+'src/midweekjavaprogram/Quotation08.java,8\4\8495fe5879f1f7d75bf3e574626781ea6bcb053c
+W
+'src/midweekjavaprogram/Quotation09.java,c\f\cf179d9e720414aca4f15efb3fbe9cac987462c7
+W
+'src/midweekjavaprogram/Quotation10.java,0\f\0fc222d4090dff20dc72d46e5686db0311472fdb
+W
+'src/midweekjavaprogram/Quotation11.java,7\f\7f533cbaf6e549f5130cd6fbad9f4e8dc5417ee5
+W
+'src/midweekjavaprogram/Quotation12.java,0\4\046840c8111ca160d8ef4d60e8a8958c6a3e2078
