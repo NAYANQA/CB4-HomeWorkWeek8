@@ -1,3 +1,15 @@
 
-X
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¢ßêä
+q
+java:S1192"ODefine a constant instead of duplicating this literal "%d * %d = %d 
+" 3 times.(¹Ãóàüÿÿÿÿ8¤·«©¹1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¹Ãóàüÿÿÿÿ8³·«©¹1
+L	java:S106"+Replace this use of System.out by a logger.(¹Ãóàüÿÿÿÿ8³·«©¹1
+F	java:S106"+Replace this use of System.out by a logger.(¥ÖC8³·«©¹1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(±” 8Ã·«©¹1
+G	java:S106"+Replace this use of System.out by a logger.(±” 8Ã·«©¹1
+F	java:S106"+Replace this use of System.out by a logger.(¥ÖC8Ã·«©¹1
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ş×ıÿÿÿÿ8Ã·«©¹1
+L	java:S106"+Replace this use of System.out by a logger.(Ş×ıÿÿÿÿ8Ã·«©¹1

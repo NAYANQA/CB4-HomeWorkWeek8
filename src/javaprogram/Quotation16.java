@@ -1,8 +1,36 @@
 package javaprogram;
+
+import java.util.Scanner;
+
 /*
 16. Write a Java program which input any number between 1 to 7 and it print The Daysname
 MONDAY, TUESDAY.....SUNDAY of the week accordingly by using switch. NOTE: if
 number is out of selection Print message “Week contains 1 to 7 days”
  */
 public class Quotation16 {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter any number between 1 to 7");
+
+        int daynumber = scanner.nextInt();
+        switch (daynumber) {
+            case 1:
+                System.out.println("Monday");
+                break;
+            case 2:
+                System.out.println("Tuesday");
+            case 3:
+                System.out.println("Wednesday");
+            case 4:
+                System.out.println("Thursday");
+            case 5:
+                System.out.println("Friday");
+            case 6:
+                System.out.println("Saturday");
+            case 7:
+                System.out.println("Sunday");
+        }
+        System.out.println("Week contains 1 to 7 days");
+    }
 }
